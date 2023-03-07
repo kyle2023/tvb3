@@ -1,0 +1,7 @@
+{
+"storeHouse": [
+{"sourceName":"🏩tvb特别仓","sourceUrl":"https://gitcode.net/2302_76189186/tvb3/-/raw/main/t6.json"},
+{"sourceName":"💙蚂蚁内置仓","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/79046/%E6%96%B0%E4%BB%93.txt?sign=qbN8KcV-klmCpOlOzW2080MCoySxgxSzlo3fyk5Ojbw%3D%3A0"},
+{"sourceName":"🌺花花世界仓①","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/73574/%E9%A3%9E%E6%9C%BA%E4%BB%93%E2%91%A1.txt?sign=VYbNoJpvtxufMCPC7N967Kgh5vDnKbjVLVVEa7GCvDU%3D%3A0"},
+{"sourceName":"🌺花花世界仓②","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/69603/%E8%87%AA%E5%BB%BA%E9%A3%9E%E6%9C%BA%E4%BB%93.txt?sign=VzKZAdiLq54giuKrICryyoPUdTcE4cdpHpC4n-rKpm4%3D%3A0"}
+]}
