@@ -1,4 +1,4 @@
 {
 "storeHouse": [
-{"sourceName":"🏩tvb特别仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kyle2023/tvb3/main/t3.json"}
+{"sourceName":"🏩tvb特别仓","sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/kyle2023/tvb3/main/t3.json"}
 ]}
